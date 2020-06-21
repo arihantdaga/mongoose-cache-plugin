@@ -1,0 +1,30 @@
+{
+  "name": "mongoose-cache-plugin",
+  "version": "1.0.0",
+  "description": "A mongoose plugin for caching queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arihantdaga/mongoose-cache-plugin.git"
+  },
+  "keywords": [
+    "mongoose-plugin",
+    "mongoose",
+    "cache"
+  ],
+  "author": "Arihant daga <arihant.ekism@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arihantdaga/mongoose-cache-plugin/issues"
+  },
+  "homepage": "https://github.com/arihantdaga/mongoose-cache-plugin#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.3.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
