@@ -21,7 +21,9 @@
     "url": "https://github.com/arihantdaga/mongoose-cache-plugin/issues"
   },
   "homepage": "https://github.com/arihantdaga/mongoose-cache-plugin#readme",
-  "dependencies": {},
+  "dependencies": {
+    "mongoose": "^5.9.19"
+  },
   "devDependencies": {
     "eslint": "^7.3.0",
     "eslint-config-google": "^0.14.0",
